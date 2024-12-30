@@ -13,6 +13,6 @@ com.adobe.crypto.MD5;MD5.hash()这个函数。结果错误。
 AS3.0无发发送POST，JSON。导致服务器不接受，报2032错误。[IOErrorEvent type="ioError" bubbles=false cancelable=false eventPhase=2 text="Error #2032: Stream Error. URL: app:/live-open.biliapi.com/v2/app/start" errorID=2032]
 如果发送URLVariables，发送数据和服务器的数据不匹配，导致无法连接？（可能）
 
-as3corelib-.93.zip为支持包
+Bx_danmu.rar为项目压缩包，VSCODE
 
 注意：本项目纯属个人储存代码，无法直接运行，清自行斟酌
